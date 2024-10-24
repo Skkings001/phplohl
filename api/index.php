@@ -1,9 +1,8 @@
 <?php
 
-$url = 'https://babel-in.xyz/tata/key';
+$url = 'https://babel-in.xyz/akash';
 $data = [
     'X-API-Key' => 'babel-40b84ca520bd0fe134cc01fc80',
-    'X-Channel-ID' => '8',
 ];
 $jsonData = json_encode($data);
 
